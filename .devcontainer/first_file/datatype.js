@@ -5,6 +5,6 @@ console.log("arjun");
 let name="arjun";
 let age=25;
 let bool=true;
-let l= undifined ;
+let l= 12 ;
 
 console.log(typeof l)
