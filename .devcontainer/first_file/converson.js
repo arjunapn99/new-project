@@ -1,13 +1,13 @@
-let score=undefined
+// let score=undefined
 
-console.log(typeof score);
+// console.log(typeof score);
 
-console.log(typeof (score));
-let valueInNumber= Number(score);
-console.log(typeof valueInNumber)
-console.log(valueInNumber)
+// console.log(typeof (score));
+// let valueInNumber= Number(score);
+// console.log(typeof valueInNumber)
+// console.log(valueInNumber)
 
 
-let arjun="ashish"
-let ajk=boolean(arjun)
-console.log(arj)
+let isLoggedIn="ashish"
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn)
