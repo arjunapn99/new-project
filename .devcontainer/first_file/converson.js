@@ -8,6 +8,11 @@
 // console.log(valueInNumber)
 
 
-let isLoggedIn="ashish"
+let isLoggedIn=""
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
+//console.log(booleanIsLoggedIn)
+
+let program=99
+let rupee= String(program)
+console.log(rupee)
+console.log(typeof rupee)
